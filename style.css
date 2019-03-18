@@ -1,0 +1,17 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  font-size: 10vw;
+  background-color: darkcyan;
+}
+
+#tecla, #codigo{
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-top: 15vh
+}
+
+#colortecla {
+  color: red
+}
