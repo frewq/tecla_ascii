@@ -1,17 +1,23 @@
-*{
+* {
   padding: 0px;
   margin: 0px;
   font-size: 10vw;
   background-color: darkcyan;
 }
 
-#tecla, #codigo{
+#tecla,
+#codigo {
   color: white;
-  display: flex;
-  justify-content: center;
-  margin-top: 15vh
+  margin-top: 15vh;
 }
 
-#colortecla, #colorcodigo {
-  color: red
+#colortecla,
+#colorcodigo {
+  color: red;
+}
+
+.textos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
